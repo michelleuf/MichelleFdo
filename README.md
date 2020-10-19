@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michelle Fernando. Thanks for visiting my GitHub
+### Hi there 👋 I'm Michelle. Thanks for visiting my GitHub
 
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
