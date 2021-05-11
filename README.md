@@ -13,4 +13,7 @@
 </div>
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact&theme=radical)
+![Michelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleFdo&show_icons=true&theme=radical&hide=issues)
+)
+
