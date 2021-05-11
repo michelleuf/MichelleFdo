@@ -9,4 +9,4 @@
 [twitter]: https://twitter.com/Michell56700416
 [linkedin]: https://www.linkedin.com/in/michelle-fernando-5556b5194
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact)-->
