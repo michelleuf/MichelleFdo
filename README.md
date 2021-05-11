@@ -9,7 +9,7 @@
 [linkedin]: https://www.linkedin.com/in/michelle-fernando-5556b5194
 
 <div align="center">
-<img src="https://octodex.github.com/images/inflatocat.png" width="200">
+<img src="https://octodex.github.com/images/femalecodertocat.png" width="200">
 </div>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact)-->
